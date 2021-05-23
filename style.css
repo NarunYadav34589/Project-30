@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+paragraph{
+  font-family: 'Newsreader', serif;
+}
+
+canvas {
+  display: block;
+}
